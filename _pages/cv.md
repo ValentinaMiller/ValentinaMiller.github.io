@@ -21,7 +21,7 @@ Work experience
 * 02/2026 – Present: Graduate Teaching Assistant at University of York, York
   * Teaching Theory 2 (Formal Languages and Automata)
 
-* 04/2025 – 08/2025: Junior Research Scientist atFraunhofer IKS, Munich
+* 04/2025 – 08/2025: Junior Research Scientist at Fraunhofer IKS, Munich
   * Research on safety, reliability and alignment of LLMs
 
 * 10/2023 – 04/2024: Thesis Student in Safe AI at LatticeFlow (ETH spin-off), Zurich
