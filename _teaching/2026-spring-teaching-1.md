@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant - Theory 2"
+title: "Graduate Teaching Assistant - Theory 2 (Formal Languages and Automata)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-teaching-1
