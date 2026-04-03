@@ -18,33 +18,26 @@ Education
 Work experience
 ======
 
-* 02/2026 – Present: Graduate Teaching Assistant
-  * University of York, York
-  * Duties included: Teaching Theory 2 (Formal Languages and Automata)
+* 02/2026 – Present: Graduate Teaching Assistant at University of York, York
+  * Teaching Theory 2 (Formal Languages and Automata)
 
-* 04/2025 – 08/2025: Junior Research Scientist
-  * Fraunhofer IKS, Munich
-  * Duties included: Research on safety, reliability and alignment of LLMs
+* 04/2025 – 08/2025: Junior Research Scientist atFraunhofer IKS, Munich
+  * Research on safety, reliability and alignment of LLMs
 
-* 10/2023 – 04/2024: Thesis Student in Safe AI
-  * LatticeFlow (ETH spin-off), Zurich
-  * Duties included: Master’s thesis on deep learning approaches to improve data quality
+* 10/2023 – 04/2024: Thesis Student in Safe AI at LatticeFlow (ETH spin-off), Zurich
+  * Master’s thesis on deep learning approaches to improve data quality
 
-* 08/2023 – 09/2023: Research Intern in Robust Deep Learning
-  * MIT, Manipal, India
-  * Duties included: Robustness analysis and boosting of motor imagery algorithms
+* 08/2023 – 09/2023: Research Intern in Robust Deep Learning at MIT, Manipal, India
+  * Robustness analysis and boosting of motor imagery algorithms
 
-* 04/2023 – 07/2023: Working Student in Safety Assurance
-  * Siemens AG, Munich
-  * Duties included: Research on resilience to adversarial attacks in deep learning
+* 04/2023 – 07/2023: Working Student in Safety Assurance at Siemens AG, Munich
+  * Research on resilience to adversarial attacks in deep learning
 
-* 04/2022 – 03/2023: Working Student in Trustworthy AI
-  * Fraunhofer IKS, Munich
-  * Duties included: Bachelor’s thesis and projects in trustworthy autonomous mobility
+* 04/2022 – 03/2023: Working Student in Trustworthy AI at Fraunhofer IKS, Munich
+  * Bachelor’s thesis and projects in trustworthy autonomous mobility
 
-* 06/2021 – 08/2021: Research Intern in Robotics
-  * Ingeniarius Lda., Porto, Portugal
-  * Duties included: Drone communication, mapping and navigation in ROS for collaborative robotic systems in forest fire prevention
+* 06/2021 – 08/2021: Research Intern in Robotics at Ingeniarius Lda., Porto, Portugal
+  * Drone communication, mapping and navigation in ROS for collaborative robotic systems in forest fire prevention
   
 Skills
 ======
