@@ -11,26 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Safe AI, University of York, UK, 2029 (expected)
+* M.S. in Computer Science, Technical University Munich, Germany, 2025
+* B.S. in Computer Science, Technical University Berlin, Germany, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 02/2026 – Present: Graduate Teaching Assistant
+  * University of York, York
+  * Duties included: Teaching Theory 2 (Formal Languages and Automata)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2025 – 08/2025: Junior Research Scientist
+  * Fraunhofer IKS, Munich
+  * Duties included: Research on safety, reliability and alignment of LLMs
+
+* 10/2023 – 04/2024: Thesis Student in Safe AI
+  * LatticeFlow (ETH spin-off), Zurich
+  * Duties included: Master’s thesis on deep learning approaches to improve data quality
+
+* 08/2023 – 09/2023: Research Intern in Robust Deep Learning
+  * MIT, Manipal, India
+  * Duties included: Robustness analysis and boosting of motor imagery algorithms
+
+* 04/2023 – 07/2023: Working Student in Safety Assurance
+  * Siemens AG, Munich
+  * Duties included: Research on resilience to adversarial attacks in deep learning
+
+* 04/2022 – 03/2023: Working Student in Trustworthy AI
+  * Fraunhofer IKS, Munich
+  * Duties included: Bachelor’s thesis and projects in trustworthy autonomous mobility
+
+* 06/2021 – 08/2021: Research Intern in Robotics
+  * Ingeniarius Lda., Porto, Portugal
+  * Duties included: Drone communication, mapping and navigation in ROS for collaborative robotic systems in forest fire prevention
   
 Skills
 ======
