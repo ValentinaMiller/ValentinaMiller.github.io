@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "GTA - "
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2026-fall-teaching-2
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2026-09-01
+location: "York, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Lab Demonstration
 ======
 
-Heading 2
-======
-
-Heading 3
+Marking
 ======
