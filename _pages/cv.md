@@ -18,9 +18,6 @@ Education
 Work experience
 ======
 
-* 02/2026 – Present: Graduate Teaching Assistant at University of York, York
-  * Teaching Theory 2 (Formal Languages and Automata)
-
 * 04/2025 – 08/2025: Junior Research Scientist at Fraunhofer IKS, Munich
   * Research on safety, reliability and alignment of LLMs
 
@@ -50,12 +47,6 @@ Skills
   * German: Mother tongue
   * English: Advanced oral and written skills (TOEFL: 106, C1)
   * Spanish, French: Intermediate oral and written skills (B1)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
