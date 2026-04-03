@@ -11,8 +11,5 @@ location: "York, UK"
 Lab Demonstration
 ======
 
-Heading 2
-======
-
 Marking
 ======
