@@ -48,12 +48,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming Skills
+  * Python, R: Advanced
+  * Java, SQL, C++: Intermediate
+
+* Language Skills
+  * German: Mother tongue
+  * English: Advanced oral and written skills (TOEFL: 106, C1)
+  * Spanish, French: Intermediate oral and written skills (B1)
 
 Publications
 ======
