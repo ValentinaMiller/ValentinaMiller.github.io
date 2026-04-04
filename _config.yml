@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Valentina Miller"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Valentina Miller"
 description              : &description "Personal website of Valentina Miller"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Valentina Miller"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Safe AI\n@Institute of Safe Autonomy"
+  bio              : "PhD Student in Safe AI<br>@Institute of Safe Autonomy"
   location         : "York, UK"
   employer         : "Univerity of York"
   uri              : # URL
