@@ -26,9 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Valentina Miller"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Safe AI @Institute of Safe Autonomy"
+  bio              : |
+                    PhD Student in Safe AI 
+                    @Institute of Safe Autonomy
   location         : "York, UK"
-  employer         : "University of York"
+  employer         : "Univerity of York"
   uri              : # URL
   email            : "valentina.miller@york.ac.uk" 
 
