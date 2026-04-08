@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Safe AI, University of York, UK, 2029 (expected)
-* M.S. in Computer Science, Technical University Munich, Germany, 2025
-* B.S. in Computer Science, Technical University Berlin, Germany, 2022
+* M.Sc. in Computer Science, Technical University Munich, Germany, 2025
+* B.Sc. in Computer Science, Technical University Berlin, Germany, 2022
 
 Work experience
 ======
