@@ -23,7 +23,7 @@ repository               : "ValentinaMiller.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Valentina Miller"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Safe AI<br>@Institute of Safe Autonomy"
