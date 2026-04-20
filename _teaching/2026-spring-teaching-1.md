@@ -8,8 +8,5 @@ date: 2026-02-01
 location: "York, UK"
 ---
 
-Lab Demonstration
-======
-
-Marking
-======
+- Lab Demonstrations
+- Marking
